@@ -10,5 +10,6 @@ public class GitTest {
         String s="abc_git";
         System.out.println(s);
         System.out.println("hello git!");
+        System.out.println("hello git3!");
     }
 }
