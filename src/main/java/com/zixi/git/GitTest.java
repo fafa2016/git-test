@@ -7,6 +7,8 @@ package com.zixi.git;
  */
 public class GitTest {
     public static void main(String[] args) {
+        String s="abc_git";
+        System.out.println(s);
         System.out.println("hello git!");
     }
 }
